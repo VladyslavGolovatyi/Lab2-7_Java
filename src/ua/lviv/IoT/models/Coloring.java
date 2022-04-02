@@ -1,4 +1,4 @@
-package models;
+package ua.lviv.IoT.models;
 
 public class Coloring extends Item{
     String topic;

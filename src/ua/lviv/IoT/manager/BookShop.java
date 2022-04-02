@@ -1,8 +1,8 @@
-package manager;
+package ua.lviv.IoT.manager;
 
-import models.Book;
-import models.Item;
-import models.ItemBox;
+import ua.lviv.IoT.models.Book;
+import ua.lviv.IoT.models.Item;
+import ua.lviv.IoT.models.ItemBox;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -23,7 +23,7 @@ public class BookShop {
 
     public Set<Book> getBooksByGenre(String genre){
         Set<Book> result = new HashSet<>();
-        items.stream().filter(item -> item.getClass().getTypeName().equals("models.Book")).
+        items.stream().filter(item -> item.getClass().getTypeName().equals("ua.lviv.IoT.models.Book")).
                 filter(book -> ((Book)book).getGenre().equals(genre)).forEach(book -> result.add((Book) book));
         return result;
     }

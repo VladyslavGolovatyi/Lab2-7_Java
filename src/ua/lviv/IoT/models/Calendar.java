@@ -1,4 +1,4 @@
-package models;
+package ua.lviv.IoT.models;
 
 public class Calendar extends Item{
     int rangeOfYears;
