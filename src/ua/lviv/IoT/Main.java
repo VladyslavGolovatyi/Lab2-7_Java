@@ -1,12 +1,9 @@
-package com;
+package ua.lviv.IoT;
 
-import manager.BookShop;
-import models.Book;
-import models.Calendar;
-import models.Item;
-import models.ItemBox;
-
-import java.util.Arrays;
+import ua.lviv.IoT.manager.BookShop;
+import ua.lviv.IoT.models.Book;
+import ua.lviv.IoT.models.Calendar;
+import ua.lviv.IoT.models.ItemBox;
 
 public class Main {
 

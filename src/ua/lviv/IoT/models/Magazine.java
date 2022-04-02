@@ -1,4 +1,4 @@
-package models;
+package ua.lviv.IoT.models;
 
 import java.time.LocalDate;
 
