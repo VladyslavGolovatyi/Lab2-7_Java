@@ -12,8 +12,8 @@ public class BookShop {
 
     public void addNewItems(final ItemBox... itemBoxes) {
         for (ItemBox itemBox:itemBoxes) {
-            for(int i = 0; i < itemBox.numberOfItems(); ++i) {
-                items.add(itemBox.item());
+            for(int i = 0; i < itemBox.getNumberOfItems(); ++i) {
+                items.add(itemBox.getItem());
             }
         }
     }

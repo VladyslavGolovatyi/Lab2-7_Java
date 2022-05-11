@@ -1,0 +1,8 @@
+Java was originally developed by James Gosling at Sun Microsystems and released in May 1995 as a core component of Sun Microsystems' Java platform.
+The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses.
+Oracle offers its own HotSpot Java Virtual Machine, however the official reference implementation is the OpenJDK JVM which is free open-source software and used by most developers and is the default JVM for almost all Linux distributions.
+As of March 2022, Java 18 is the latest version, while Java 17, 11 and 8 are the current long-term support versions.
+Oracle released the last zero-cost public update for the legacy version Java 8 LTS in January 2019 for commercial use, although it will otherwise still support Java 8 with public updates for personal use indefinitely.
+Other vendors have begun to offer zero-cost builds of OpenJDK 8 and 11 that are still receiving security and other upgrades.
+The classes in the Java APIs are organized into separate groups called packages. Each package contains a set of related interfaces, classes, subpackages and exceptions.
+Sun also provided an edition called Personal Java that has been superseded by later, standards-based Java ME configuration-profile pairings.

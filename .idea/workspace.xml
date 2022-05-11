@@ -5,39 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6965790c-0c62-4a9a-b190-24a789b27b3d" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_opencsv_opencsv_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/manager/BookWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BookShopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BookWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spotbugs_spotbugs_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spotbugs_spotbugs_annotations_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_picocli_picocli_4_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nl_jqno_equalsverifier_equalsverifier_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_bcel_bcel_6_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_28_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expectedResultRegex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/someText" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/manager/RegexManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegexManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_opencsv_opencsv_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab2-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/manager/BookShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/manager/BookShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/models/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/models/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/models/Coloring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/Coloring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/models/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/models/ItemBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/ItemBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/IoT/models/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/manager/BookShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/manager/BookShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/manager/BookWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/manager/BookWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/ItemBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/IoT/models/ItemBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookWriterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +84,9 @@
     </option>
   </component>
   <component name="ProjectId" id="279luDJ9CFFfjxznL4nomc6HXz5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -131,15 +146,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last.edited.regexp": "Sample ext.  sa.",
+    "last_opened_file_path": "D:/Lab2-6_Java",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Lab2-6_Java" />
@@ -154,7 +173,7 @@
       <command value="mvn clean site" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BookWriterTest">
+  <component name="RunManager" selected="JUnit.RegexManagerTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ua.lviv.IoT.Main" />
       <module name="Lab2-Java" />
@@ -182,11 +201,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegexManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-Java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegexManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RegexManagerTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.BookWriterTest" />
         <item itemvalue="JUnit.BookShopTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +227,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648740405741</updated>
+      <workItem from="1651228907174" duration="187000" />
+      <workItem from="1651229121722" duration="1245000" />
+      <workItem from="1651230415454" duration="731000" />
+      <workItem from="1651237050288" duration="594000" />
+      <workItem from="1651237669585" duration="2473000" />
+      <workItem from="1651252645849" duration="34000" />
+      <workItem from="1651605122088" duration="1011000" />
+      <workItem from="1651749429585" duration="16000" />
+      <workItem from="1651838253501" duration="115000" />
+      <workItem from="1651838758108" duration="292000" />
+      <workItem from="1651839544940" duration="52000" />
+      <workItem from="1651844850080" duration="2815000" />
+      <workItem from="1651868088879" duration="2043000" />
+      <workItem from="1652285383542" duration="8540000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1648895738819</created>
@@ -220,8 +263,18 @@
       <option name="project" value="LOCAL" />
       <updated>1649767286745</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1651058704487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651058704487</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -234,7 +287,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="reports_branch" />
                       </list>
                     </value>
                   </entry>
@@ -251,7 +304,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Lab2_6_Java$BookShopTest.ic" NAME="BookShopTest Coverage Results" MODIFIED="1651053490048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Lab2_6_Java$BookWriterTest.ic" NAME="BookWriterTest Coverage Results" MODIFIED="1651058003296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lab2_6_Java$BookShopTest.ic" NAME="BookShopTest Coverage Results" MODIFIED="1651237747070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lab2_6_Java$BookWriterTest.ic" NAME="BookWriterTest Coverage Results" MODIFIED="1651237737256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

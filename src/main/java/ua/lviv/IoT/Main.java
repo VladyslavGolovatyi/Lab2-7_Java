@@ -3,7 +3,10 @@ package ua.lviv.IoT;
 import ua.lviv.IoT.manager.BookShop;
 import ua.lviv.IoT.models.Book;
 import ua.lviv.IoT.models.Calendar;
+import ua.lviv.IoT.models.Item;
 import ua.lviv.IoT.models.ItemBox;
+
+import java.util.Arrays;
 
 public class Main {
 
@@ -25,5 +28,10 @@ public class Main {
         System.out.println("----------------------------------------");
         knygarniaE.getItemsSortedByNumberOfPages(false).forEach(System.out::println);
 */
+        System.out.println("Name: " + Double[].class.getName());
+        System.out.println("Type name: " + Double[].class.getTypeName());
+        System.out.println("Canonical name: " + Double[].class.getCanonicalName());
+        System.out.println("Package name: " + Double[].class.getPackageName());
+        System.out.println("Simple name: " + Double[].class.getSimpleName());
     }
 }
