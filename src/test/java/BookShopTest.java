@@ -1,18 +1,11 @@
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import ua.lviv.IoT.manager.BookShop;
-import ua.lviv.IoT.manager.BookWriter;
 import ua.lviv.IoT.models.*;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.Set;
 
 public class BookShopTest {

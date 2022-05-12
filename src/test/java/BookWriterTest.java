@@ -4,10 +4,9 @@ import ua.lviv.IoT.models.Book;
 import ua.lviv.IoT.models.Coloring;
 import ua.lviv.IoT.models.Item;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -20,7 +19,7 @@ public class BookWriterTest {
     public void testWritingToSCVEmptyCase() throws IOException {
         BookWriter.writeToFile(new ArrayList<>());
         File file = new File("result.csv");
-        Scanner scanner = new Scanner(file);
+        Scanner scanner = new Scanner(file, StandardCharsets.UTF_8);
         StringBuilder result = new StringBuilder();
         while (scanner.hasNextLine()){
             result.append(scanner.nextLine());
@@ -35,7 +34,7 @@ public class BookWriterTest {
         items.add(new Book(290,true,100,"fantasy","Harry Potter",false));
         BookWriter.writeToFile(items);
         File file = new File("result.csv");
-        Scanner scanner = new Scanner(file);
+        Scanner scanner = new Scanner(file,StandardCharsets.UTF_8);
         StringBuilder result = new StringBuilder();
         while (scanner.hasNextLine()){
             result.append(scanner.nextLine());
@@ -53,7 +52,7 @@ public class BookWriterTest {
         items.add(new Coloring(10,true,20,"Easter",10));
         BookWriter.writeToFile(items);
         File file = new File("result.csv");
-        Scanner scanner = new Scanner(file);
+        Scanner scanner = new Scanner(file,StandardCharsets.UTF_8);
         StringBuilder result = new StringBuilder();
         while (scanner.hasNextLine()){
             result.append(scanner.nextLine());

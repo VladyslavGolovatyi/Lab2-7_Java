@@ -1,5 +1,13 @@
 package ua.lviv.IoT.models;
 
-public record ItemBox (Item item, int numberOfItems, int weightInKg){
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+
+@Getter
+@AllArgsConstructor
+public class ItemBox{
+        Item item;
+        int numberOfItems;
+        int weightInKg;
 
 }
