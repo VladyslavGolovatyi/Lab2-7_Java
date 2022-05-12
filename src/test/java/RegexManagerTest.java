@@ -29,28 +29,28 @@ public class RegexManagerTest {
     @Test
     public void emptyCaseTest(){
         RegexManager regexManager = new RegexManager();
-        regexManager.printPenultimateWordsInAllSentences("");
+        regexManager.findPenultimateWordsInAllSentences("").forEach(System.out::println);
         assertEquals("",outContent.toString().trim());
     }
 
     @Test
     public void oneWordSentenceTest(){
         RegexManager regexManager = new RegexManager();
-        regexManager.printPenultimateWordsInAllSentences("Snow.");
+        regexManager.findPenultimateWordsInAllSentences("Snow.").forEach(System.out::println);
         assertEquals("",outContent.toString().trim());
     }
 
     @Test
     public void regularSentenceTest(){
         RegexManager regexManager = new RegexManager();
-        regexManager.printPenultimateWordsInAllSentences("Never give up.");
+        regexManager.findPenultimateWordsInAllSentences("Never give up.").forEach(System.out::println);
         assertEquals("give",outContent.toString().trim());
     }
 
     @Test
     public void regularTextTest() throws IOException {
         RegexManager regexManager = new RegexManager();
-        regexManager.printPenultimateWordsInAllSentences(new String(Files.readAllBytes(Paths.get("someText"))));
+        regexManager.findPenultimateWordsInAllSentences(new String(Files.readAllBytes(Paths.get("someText")))).forEach(System.out::println);
         assertEquals(new String(Files.readAllBytes(Paths.get("expectedResultRegex"))),outContent.toString().trim());
     }
 
